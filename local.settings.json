@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=ai360funcappstorage;AccountKey=glg64NbcywIR/Gy2PkSIdMSKpdzg6j/XfAuCOQt9qqQZjZskfOgSciipM4KwpiyZ19ngq2MHG3s1+ASt5HyKeQ==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "ai360prodciehn_RootManageSharedAccessKey_EVENTHUB": "Endpoint=sb://ai360-prod-ci-ehn.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=shyz89fNQ66tJwAfvgX6YpTAYy/P3+wOY+AEhL6+RSk=;EntityPath=send_multiple_emails"
+  }
+}
